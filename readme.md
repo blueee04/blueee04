@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **my grades...you'll get motivated :))**
 
-- 📫 How to reach me **barshan2004@gmail.com**
+- 📫 How to reach me **blueeeeee04@gmail.com**
 
 - ⚡ Fun fact **You might not find me when you need me :(**
 
