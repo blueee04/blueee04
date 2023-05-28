@@ -1,4 +1,3 @@
-<iframe src="https://giphy.com/embed/8gSh4No47eIGA" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/l-death-note-8gSh4No47eIGA">via GIPHY</a></p>
 
 <h1 align="center">Hi 👋, I'm Barshan</h1>
 <h3 align="center">A CTF player, currently in Team bi0s | First Year EAC Student | Kooky</h3>
