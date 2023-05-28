@@ -1,8 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Barshan</h1>
 <h3 align="center">A CTF player, currently in Team bi0s | First Year EAC Student | Kooky</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueee04&label=Profile%20views&color=0e75b6&style=flat" alt="blueee04" /> </p>
+
+<p align="left"> <a href="https://twitter.com/b1u33_04" target="blank"><img src="https://img.shields.io/twitter/follow/b1u33_04?logo=twitter&style=for-the-badge" alt="b1u33_04" /></a> </p>
 
 - 🔭 I’m currently working on **Digital Forensics and Incident Response**
 
@@ -12,12 +13,14 @@
 
 - 💬 Ask me about **my grades...you'll get motivated :))**
 
-- 📫 How to reach me **blueeeeee04@gmail.com**
+- 📫 How to reach me **barshan2004@gmail.com**
 
 - ⚡ Fun fact **You might not find me when you need me :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/b1u33_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b1u33_04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/barshan-mondal-3457b1264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barshan-mondal-3457b1264" height="30" width="40" /></a>
 <a href="https://instagram.com/_.barshan._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.barshan._" height="30" width="40" /></a>
 </p>
 
