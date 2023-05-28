@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blueee04&show_icons=true&locale=en" alt="blueee04" /></p>
 
-![](gifs/dino_rounded.gif)
+![](gifs/dev-working_rounded.gif)
