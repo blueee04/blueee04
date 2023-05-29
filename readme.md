@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **[Email](blueeeeee04@gmail.com) , Discord - *B1u33#0108* Or [Twitter](https://twitter.com/b1u33_04)**
 
-- ⚡ Quote **[Coming together is a beginning.](https://www.youtube.com/watch?v=12rT3uotaqk)**
+- ⚡ Quote **[Coming together is a beginning.](https://www.youtube.com/watch?v=Y_PCjw5WKpo)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
