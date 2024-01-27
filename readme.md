@@ -1,8 +1,8 @@
-![](gifs/Developer.gif)                                                                           
+![](gifs/sonic.gif) ![](gifs/sonic.gif)                                                                           
 <h1 align="center">Hi 👋, I'm Barshan</h1>
 <h3 align="center">A CTF player, currently in Team bi0s | First Year EAC Student | Kooky</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blueee04&label=Profile%20views&color=0e75b6&style=flat" alt="blueee04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blueee04&label=Profile%20views&color=0e75b6&style=flat" alt="blueee04" /> </p> 
 
 <p align="left"> <a href="https://twitter.com/b1u33_04" target="blank"><img src="https://img.shields.io/twitter/follow/b1u33_04?logo=twitter&style=for-the-badge" alt="b1u33_04" /></a> </p>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **[Email](blueeeeee04@gmail.com) , Discord - *B1u33#0108* Or [Twitter](https://twitter.com/b1u33_04)**
 
-- ⚡ Quote **[Coming together is a beginning.](https://www.youtube.com/watch?v=Y_PCjw5WKpo)**
+- ⚡ Quote **[Coming together is a beginning.](https://www.youtube.com/watch?v=Y_PCjw5WKpo)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blueee04&show_icons=true&locale=en" alt="blueee04" /></p>
 
-![](gifs/dev-working_rounded.gif)
+![](gifs/street-fighter.gif)  ![](gifs/wolverine.gif) 
+
