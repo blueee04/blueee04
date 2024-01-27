@@ -1,4 +1,4 @@
-![](gifs/sonic.gif) ![](gifs/sonic.gif)                                                                           
+![](gifs/sonic.gif)                                                                          
 <h1 align="center">Hi 👋, I'm Barshan</h1>
 <h3 align="center">A CTF player, currently in Team bi0s | First Year EAC Student | Kooky</h3>
 
