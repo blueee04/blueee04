@@ -1,8 +1,8 @@
 ![](gifs/sonic.gif)                                                                          
 <h1 align="center">Hi 👋, I'm Barshan</h1>
-<h3 align="center">Trying And Creating Imaginations | First Year EAC Student | Kooky</h3>
+<h3 align="center">Trying And Creating Imaginations | Second Year EAC Student | Kooky</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blueee04&label=Profile%20views&color=0e75b6&style=flat" alt="blueee04" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blueee04&label=Profile%20views&color=0e75b6&style=flat" alt="blueee04" /> </p>
 
 <p align="left"> <a href="https://twitter.com/b1u33_04" target="blank"><img src="https://img.shields.io/twitter/follow/b1u33_04?logo=twitter&style=for-the-badge" alt="b1u33_04" /></a> </p>
 
