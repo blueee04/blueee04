@@ -22,7 +22,6 @@
 <p align="left">
 <a href="https://twitter.com/b1u33_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b1u33_04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/barshan-mondal-3457b1264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barshan-mondal-3457b1264" height="30" width="40" /></a>
-<a href="https://instagram.com/_.barshan._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.barshan._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
