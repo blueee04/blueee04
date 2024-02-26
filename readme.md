@@ -11,7 +11,7 @@
 
 - 👯 Ping me up on my socials to collab with me on a project you have in my mind.
 
-- 📫 How to reach me **[Email](blueeeeee04@gmail.com) , Discord - *B1u33#0108* Or [Twitter](https://twitter.com/b1u33_04)**
+- 📫 How to reach me **[Email](blueeeeee04@gmail.com) , Discord - *B1u33#0108* Or [Twitter](https://twitter.com/b1u33_04)** Or Even [LinkedIn](https://linkedin.com/in/barshan-mondal-3457b1264)
 
 
 <h3 align="left">Connect with me:</h3>
