@@ -5,17 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/b1u33_04" target="blank"><img src="https://img.shields.io/twitter/follow/b1u33_04?logo=twitter&style=for-the-badge" alt="b1u33_04" /></a> </p>
 
-- 🔭 I’m currently working on **[Digital Forensics and Incident Response](https://www.crowdstrike.com/cybersecurity-101/digital-forensics-and-incident-response-dfir/)**
+- 🔭 I’m currently working on **Implementing my Forensics Skills With Machine Learing**
 
-- 🌱 I’m currently learning **[Memory Forensics](https://stuxnet999.github.io/volatility/2020/08/18/Basics-of-Memory-Forensics.html)**
+- 🌱 I’m currently learning **FDSZT**
 
-- 👯 I’m looking for help in **[Making my Future Brighter](https://www.youtube.com/watch?v=fx2Z5ZD_Rbo)**
-
-- 💬 Ask me about **[my grades :))](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
+- 👯 Ping me up on my socials to collab with me on a project you have in my mind.
 
 - 📫 How to reach me **[Email](blueeeeee04@gmail.com) , Discord - *B1u33#0108* Or [Twitter](https://twitter.com/b1u33_04)**
 
-- ⚡ Quote **[Coming together is a beginning.](https://www.youtube.com/watch?v=Y_PCjw5WKpo)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
