@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Implementing my Forensics Skills With Machine Learing**
 
-- 🌱 I’m currently learning **FDSZT**
+- 🌱 I’m currently going through **FDSZT**
 
 - 👯 Ping me up on my socials to collab with me on a project you have in my mind.
 
