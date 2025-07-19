@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barshan</h1>
-<h3 align="center">Trying And Creating Imaginations | Second Year EAC Student | Kooky</h3>
+<h3 align="center">Trying And Creating Imaginations | Final Year EAC Student | Kooky</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueee04&label=Profile%20views&color=0e75b6&style=flat" alt="blueee04" /> </p>
 
