@@ -2,6 +2,8 @@
 
 Final Year Student @ [Amrita](https://www.amrita.edu/)
 
+GSOC'26 @ [INCF](https://summerofcode.withgoogle.com/programs/2026/projects/A289WZd0)
+
 Previously -> CTF player @ [bi0s](https://bi0s.in), Intern @ [Syancy Innovations](https://www.syancy.com/)
 
 Research:
