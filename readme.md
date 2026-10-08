@@ -1,6 +1,6 @@
 ## Hey there, I am Barshan
 
-Final Year Student @ [Amrita](https://www.amrita.edu/)
+Post Training Data for RL @ [ParseWave](https://parsewave.ai/)
 
 Open Source Program @ Claude, Anthropic
 
